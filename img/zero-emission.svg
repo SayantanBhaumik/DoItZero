@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 145 145" style="enable-background:new 0 0 145 145;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_00000126290356349947826390000014328004787998168218_);}
+	.st1{fill:#54BD7E;}
+	.st2{fill:url(#Path_128_00000129202457770501650760000011709406396079501716_);}
+	.st3{fill:url(#Path_131_00000043449812071520990830000016104342141002365117_);}
+</style>
+<g id="Group_167" transform="translate(0.01)">
+	<g>
+		<defs>
+			<circle id="SVGID_1_" cx="72.5" cy="72.5" r="72.5"/>
+		</defs>
+		<clipPath id="SVGID_00000150796966477648908780000013935933393073401228_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		
+			<g id="Mask_Group_17" transform="translate(0 0)" style="clip-path:url(#SVGID_00000150796966477648908780000013935933393073401228_);">
+			<g id="Group_166" transform="translate(43.686 20.701)">
+				<path id="Path_126" class="st1" d="M43.6,3l-5.3,35.9c-0.4,1.4-0.1,2.8,0.8,4c3.3,4.6,4.2,2.2,4.2,2.2L48,1.2
+					c0.2-2.6-4.2-0.6-4.5,2.5"/>
+				<g id="Group_165" transform="translate(38.563 49.413)">
+					<path id="Path_127" class="st1" d="M4.5,0l13,0.7c0.7,0,1.4,0.4,1.8,1c0.5,0.9,0.8,1.8,0.8,2.8c0.1,1.2-0.2,2.3-0.7,3.3
+						c-0.4,0.6-1.1,1-1.8,1.1L5.5,9.7c0,0,2.2-1.5,1.9-5.2C7.1,0.8,4.5,0,4.5,0z"/>
+					<ellipse id="Ellipse_45" class="st1" cx="3.2" cy="5.1" rx="3.2" ry="4.7"/>
+				</g>
+				
+					<linearGradient id="Path_128_00000172421821662212372030000009848094585023473286_" gradientUnits="userSpaceOnUse" x1="-111.0009" y1="201.8867" x2="-111.0009" y2="201.1887" gradientTransform="matrix(8.374 0 0 -140.951 978.3774 28499.0996)">
+					<stop  offset="0" style="stop-color:#FCFDFE"/>
+					<stop  offset="1" style="stop-color:#54BD7E"/>
+				</linearGradient>
+				<path id="Path_128" style="fill:url(#Path_128_00000172421821662212372030000009848094585023473286_);" d="M44.9,62.7L44.9,62.7
+					l-0.2,137.7l3.3,2.4l5-3.4L52.3,61.8C49.2,64.2,44.9,62.7,44.9,62.7z"/>
+				<path id="Path_129" class="st1" d="M52,63.6c-4.8-0.8-7.2-1-7.2-1c0,0,0,2.5,0,2.5l7.5,6.4c0-3.6,0.1-6.5,0.1-8.3"/>
+				<path id="Path_130" class="st1" d="M4.4,84.7l28.3-17.6c1.2-0.5,2.1-1.6,2.3-2.9c1.2-5-1-4.2-1-4.2L0.5,82.7
+					c-1.9,1.4,2,3.3,4.4,1.7"/>
+				
+					<linearGradient id="Path_131_00000081648529149142356310000012435368854408854957_" gradientUnits="userSpaceOnUse" x1="-118.5041" y1="199.9563" x2="-117.5041" y2="198.8773" gradientTransform="matrix(35.0823 0 0 -31.8312 4201.9673 6423.0703)">
+					<stop  offset="0" style="stop-color:#FCFDFE"/>
+					<stop  offset="1" style="stop-color:#54BD7E"/>
+				</linearGradient>
+				<path id="Path_131" style="fill:url(#Path_131_00000081648529149142356310000012435368854408854957_);" d="M78.9,87.5L52.7,62.3
+					c-0.9-1.1-2.3-1.7-3.7-1.7c-5.6,0-4.2,2.2-4.2,2.2l33,29.3c1.9,1.7,2.9-3,0.6-5.1"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
